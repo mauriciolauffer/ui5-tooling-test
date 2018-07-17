@@ -1,0 +1,10 @@
+<mvc:View controllerName="mlauffer.ui5.tooling.test.controller.App" displayBlock="true"
+          xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+    <Shell>
+        <App>
+            <Page id="page" title="{i18n>TITLE}">
+                <Text text="FirstName LastName" />
+            </Page>
+        </App>
+    </Shell>
+</mvc:View>
