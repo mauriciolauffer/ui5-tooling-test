@@ -1,4 +1,4 @@
 specVersion: '0.1'
 metadata:
-  name: openui5-smart-mockserver
+  name: ui5-tooling-test
 type: application
